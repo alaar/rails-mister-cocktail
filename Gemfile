@@ -53,3 +53,9 @@ end
 gem 'tzinfo-data', platforms: [:mingw, :mswin, :x64_mingw, :jruby]
 gem 'rspec-rails', group: [ :test ]
 gem 'rails-controller-testing', group: [ :test ]
+
+# Styling
+ gem 'bootstrap-sass'
+ gem 'simple_form'
+
+ruby '2.4.3'
